@@ -88,9 +88,11 @@ Un chatbot interactivo en tiempo real donde la IA asume el rol de un **vendedor 
 **Evidencia:**
 Ejercicio 1:
 ![Evidencia de ejecución 1](ejercicio1.jpeg)
+
 Ejercicio 2:
-![Evidencia de ejecución 2](ejercicio 2.jpeg)
+![Evidencia de ejecución 2](ejercicio%202.jpeg)
+
 Ejercicio 3:
-![Evidencia de ejecución 3](ejercicio 3.jpeg)
+![Evidencia de ejecución 3](ejercicio%203.jpeg)
 
 
