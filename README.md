@@ -87,10 +87,10 @@ Un chatbot interactivo en tiempo real donde la IA asume el rol de un **vendedor 
 **Nota sobre los tiempos de respuesta:** Al presionar *Enter* en cualquiera de los ejercicios, la respuesta puede tardar entre **10 y 20 segundos** en llegar desde los servidores de Google. Verás mensajes como *"Procesando..."*, así que no te preocupes, el programa no se ha congelado, solo está esperando la respuesta.
 **Evidencia:**
 Ejercicio 1:
-<img width="1380" height="1180" alt="image" src="https://github.com/user-attachments/assets/36d8eaed-9de8-4973-99d4-fdf3f6afa674" />
+![Evidencia de ejecución 1](ejercicio 1.jpeg)
 Ejercicio 2:
-<img width="1568" height="995" alt="image" src="https://github.com/user-attachments/assets/a6288708-a3fa-410d-a086-9a11649aeea9" />
+![Evidencia de ejecución 2](ejercicio 2.jpeg)
 Ejercicio 3:
-<img width="1386" height="1001" alt="image" src="https://github.com/user-attachments/assets/4c9c6de9-2d91-4a69-8527-8a18344ca903" />
+![Evidencia de ejecución 3](ejercicio 3.jpeg)
 
 
