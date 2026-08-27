@@ -90,9 +90,9 @@ Ejercicio 1:
 ![Evidencia de ejecución 1](ejercicio1.jpeg)
 
 Ejercicio 2:
-![Evidencia de ejecución 2](ejercicio%202.jpeg)
+![Evidencia de ejecución 2](ejercicio2.jpeg)
 
 Ejercicio 3:
-![Evidencia de ejecución 3](ejercicio%203.jpeg)
+![Evidencia de ejecución 3](Ejercicio3.jpeg)
 
 
