@@ -91,7 +91,7 @@ Ejercicio 1:
 <img width="1380" height="1180" alt="ejercicio1" src="https://github.com/user-attachments/assets/36aabcd5-18cb-4081-b434-d193ff350a0d" />
 
 Ejercicio 2:
-![Evidencia de ejecución 2](ejercicio2.jpeg)
+![Evidencia de ejecución 2](img/ejercicio 2.jpeg)
 
 Ejercicio 3:
 ![Evidencia de ejecución 3](Ejercicio3.jpg)
