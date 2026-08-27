@@ -2,7 +2,7 @@
 
 Este repositorio contiene las soluciones para el taller de implementación de la API de Google Gemini, utilizando Python. El proyecto se compone de tres ejercicios interactivos que demuestran la generación de texto, asignación de roles (System Instructions) y mantenimiento de contexto (Few-Shot).
 
-## 🚀 Requisitos Previos
+## Requisitos Previos
 
 1. Tener instalado [Python](https://www.python.org/downloads/) (versión 3.9 o superior).
 2. Tener una API Key de **Google AI Studio**.
@@ -14,7 +14,7 @@ Si no lo has hecho, asegúrate de que el archivo llamado `.env` contenga tu clav
 GEMINI_API_KEY=Tu_Clave_De_Google_Aqui
 ```
 
-## 🛠️ Configuración del Entorno de Desarrollo
+## Configuración del Entorno de Desarrollo
 
 Para evitar problemas con las librerías, es importante ejecutar el código dentro de un Entorno Virtual. Sigue estos pasos en tu terminal (VS Code, Git Bash o PowerShell):
 
@@ -53,7 +53,7 @@ pip install python-dotenv google-genai flask
 
 ---
 
-## 🏃‍♂️ Cómo Ejecutar los Ejercicios
+## Cómo Ejecutar los Ejercicios
 
 Cada ejercicio ha sido programado de forma interactiva. Asegúrate de tener tu entorno activado `(venv)` antes de intentar correr los comandos.
 
@@ -84,7 +84,7 @@ Un chatbot interactivo en tiempo real donde la IA asume el rol de un **vendedor 
 * **Instrucciones:** Se abrirá un chat en vivo. Puedes hacerle múltiples preguntas (recomendaciones de laptops, dudas sobre procesadores, etc.) y la IA recordará la conversación. Para salir del bucle del chat, simplemente escribe la palabra `finalizar`.
 
 ---
-**⏳ Nota sobre los tiempos de respuesta:** Al presionar *Enter* en cualquiera de los ejercicios, la respuesta puede tardar entre **10 y 20 segundos** en llegar desde los servidores de Google. Verás mensajes como *"Procesando..."*, así que no te preocupes, el programa no se ha congelado, solo está esperando la respuesta.
+**Nota sobre los tiempos de respuesta:** Al presionar *Enter* en cualquiera de los ejercicios, la respuesta puede tardar entre **10 y 20 segundos** en llegar desde los servidores de Google. Verás mensajes como *"Procesando..."*, así que no te preocupes, el programa no se ha congelado, solo está esperando la respuesta.
 **Evidencia:**
 Ejercicio 1:
 <img width="1380" height="1180" alt="image" src="https://github.com/user-attachments/assets/36d8eaed-9de8-4973-99d4-fdf3f6afa674" />
