@@ -92,7 +92,7 @@ Ejercicio 1:
 
 Ejercicio 2:
 
-![Ejecución de ejercicio_2.py](img/ejercicio 2.jpeg)
+![Ejecución de ejercicio_2.py](img/ejercicio_2.png)
 
 Ejercicio 3:
 ![Evidencia de ejecución 3](Ejercicio3.jpg)
